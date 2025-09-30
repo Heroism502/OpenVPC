@@ -2,8 +2,10 @@
 
 #### We appreciate any useful suggestions for improvement of this paper from peers. Please raise issues or send an email to **liangxie@stu.pku.edu.cn**. Thanks for your cooperation!
 
-通过网盘分享的文件：v2.1.0.zip
+
+Software download path：
 链接: https://pan.baidu.com/s/1UfaKf0rEDuy8zML1CohAwA?pwd=bp45 提取码: bp45
+
 
 ![The image of JND](image/1-1.png) 
 
